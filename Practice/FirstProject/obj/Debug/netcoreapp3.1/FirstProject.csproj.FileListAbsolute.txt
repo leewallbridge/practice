@@ -1,0 +1,13 @@
+C:\Users\Lee\source\repos\Practice\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.exe
+C:\Users\Lee\source\repos\Practice\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.deps.json
+C:\Users\Lee\source\repos\Practice\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.json
+C:\Users\Lee\source\repos\Practice\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.dev.json
+C:\Users\Lee\source\repos\Practice\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.dll
+C:\Users\Lee\source\repos\Practice\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.pdb
+C:\Users\Lee\source\repos\Practice\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csprojAssemblyReference.cache
+C:\Users\Lee\source\repos\Practice\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfoInputs.cache
+C:\Users\Lee\source\repos\Practice\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfo.cs
+C:\Users\Lee\source\repos\Practice\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Lee\source\repos\Practice\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.dll
+C:\Users\Lee\source\repos\Practice\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.pdb
+C:\Users\Lee\source\repos\Practice\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.genruntimeconfig.cache
